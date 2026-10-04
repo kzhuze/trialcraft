@@ -1,0 +1,13 @@
+{
+    "name": "TrialCraft Dev",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "openai.chatgpt"
+            ]
+        }
+    }
+}
