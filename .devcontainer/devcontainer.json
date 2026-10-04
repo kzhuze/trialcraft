@@ -9,5 +9,6 @@
                 "openai.chatgpt"
             ]
         }
-    }
+    },
+    "remoteUser": "vscode"
 }
